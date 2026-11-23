@@ -1,0 +1,8 @@
+{
+  "name": "Remix رفيق المعتمر",
+  "description": "رفيق المعتمر والحاج 3D - دليل شامل للمناسك والطواف والسعي والمشاعر بـ 6 لغات مع بوصلة القبلة والطقس المباشر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
